@@ -28,9 +28,9 @@ export const getRace = async (req, res) => {
 
 export const createRace = async (req, res) => {
 try {
-    const race = new race(req.body);
-    await race.save();
-    res.status(201).json(race);
+    const Race = new Race(req.body);
+    await Race.save();
+    res.status(201).json(Race);
   } catch (error) {
     console.log(error);
     res.status(500).json({ error: error.message });
@@ -39,8 +39,8 @@ try {
 
 export const updateRace = async (req, res) => {
   const { id } = req.params;
-  const race = await race.findByIdAndUpdate(id, req.body);
-  res.status(200).json(race);
+  const Race = await Race.findByIdAndUpdate(id, req.body);
+  res.status(200).json(Race);
 };
 
 export const deleteRace = async (req, res) => {
