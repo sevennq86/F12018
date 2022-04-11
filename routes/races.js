@@ -3,10 +3,10 @@ import * as controllers from "../controllers/races.js"
 
 const router = Router();
 
-router.get("/characters", controllers.getCharacters);
-router.get("/characters/:id", controllers.getCharacter);
-router.post("/characters", controllers.createCharacter);
-router.put("/characters/:id", controllers.updateCharacter);
-router.delete("/characters/:id", controllers.deleteCharacter);
+router.get("/races", races.getCharacters);
+router.get("/races/:id", races.getCharacter);
+router.post("/races", races.createCharacter);
+router.put("/races/:id", races.updateCharacter);
+router.delete("/races/:id", races.deleteCharacter);
 
 export default router;
