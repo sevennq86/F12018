@@ -1,12 +1,12 @@
 import { Router } from "express";
-import * as controllers from "../controllers/races.js"
+import { getRace, getRaces, createRace, deleteRace, updateRace } from "../controllers/races.js";
 
 const router = Router();
 
-router.get("/races", races.getRaces);
-router.get("/races/:id", races.getRace);
-router.post("/races", races.createRace);
-router.put("/races/:id", races.updateRace);
-router.delete("/races/:id", races.deleteRace);
+router.get("/races", getRaces);
+router.get("/races/:id", getRace);
+router.post("/races", createRace);
+router.put("/races/:id", updateRace);
+router.delete("/races/:id", deleteRace);
 
 export default router;

@@ -69,7 +69,7 @@
     "fastestLap": "1:06.957, Ferrari",
     "fastestPitStop": "2.18, Red Bull",
     "laps": "71",
-    "round": "8"
+    "round": "9"
   },
   {
     "location": "Great Britain",
@@ -77,7 +77,7 @@
     "fastestLap": "1:30.696, Vettel",
     "fastestPitStop": "2.26, Red Bull",
     "laps": "52",
-    "round": "9"
+    "round": "10"
   },
   {
     "location": "Germany",
@@ -85,7 +85,7 @@
     "fastestLap": "1:15.545, Hamilton",
     "fastestPitStop": "2.09, Ferrari",
     "laps": "67",
-    "round": "10"
+    "round": "11"
   },
   {
     "location": "Hungary",
@@ -93,7 +93,7 @@
     "fastestLap": "1:20.012, Ricciardo",
     "fastestPitStop": "2.10, Williams",
     "laps": "70",
-    "round": "11"
+    "round": "12"
   },
   {
     "location": "Belgian",
@@ -101,7 +101,7 @@
     "fastestLap": "1:46.286, Bottas",
     "fastestPitStop": "2.29, Ferrari",
     "laps": "44",
-    "round": "12"
+    "round": "13"
   },
   {
     "location": "Italy",
@@ -109,7 +109,7 @@
     "fastestLap": "1:22.497 Hamilton",
     "fastestPitStop": "2.20, Ferrari",
     "laps": "53",
-    "round": "13"
+    "round": "14"
   },
   {
     "location": "Singapore",
@@ -117,7 +117,7 @@
     "fastestLap": "1:41.905, Magnussen",
     "fastestPitStop": "2.20, Williams",
     "laps": "61",
-    "round": "14"
+    "round": "15"
   },
   {
     "location": "Russia",
@@ -125,7 +125,7 @@
     "fastestLap": "1:35.861, Bottas",
     "fastestPitStop": "2.36, Williams",
     "laps": "53",
-    "round": "15"
+    "round": "16"
   },
   {
     "location": "Japan",
@@ -133,7 +133,7 @@
     "fastestLap": "1:32.318 Vettel",
     "fastestPitStop": "2.24, Ferrari",
     "laps": "53",
-    "round": "16"
+    "round": "17"
   },
   {
     "location": "United States",
@@ -141,7 +141,7 @@
     "fastestLap": "1:37.392, Hamilton",
     "fastestPitStop": "2.28, Mercedes",
     "laps": "56",
-    "round": "17"
+    "round": "18"
   },
   {
     "location": "Mexico",
@@ -149,7 +149,7 @@
     "fastestLap": "1:18.741, Bottas",
     "fastestPitStop": "2.15, Ferrari",
     "laps": "71",
-    "round": "18"
+    "round": "19"
   },
   {
     "location": "Brazil",
@@ -157,7 +157,7 @@
     "fastestLap": "1:10.540, Bottas",
     "fastestPitStop": "1.97, Ferrari",
     "laps": "71",
-    "round": "19"
+    "round": "20"
   },
   {
     "location": "Abu Dhabi",
@@ -165,6 +165,6 @@
     "fastestLap": "1:40.867, Vettel",
     "fastestPitStop": "2.08, Red Bull",
     "laps": "55",
-    "round": "20"
+    "round": "21"
   }
 ]
